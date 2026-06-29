@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create macOS Window Shell"
+  short_description: "Reusable native macOS window shell recipes"
+  default_prompt: "Use $create-macos-window-shell to create a reusable native macOS window shell for this app."
